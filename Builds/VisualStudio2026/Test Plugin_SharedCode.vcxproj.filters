@@ -826,6 +826,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\Square.cpp">
+      <Filter>Test Plugin\Source</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\PluginProcessor.cpp">
       <Filter>Test Plugin\Source</Filter>
     </ClCompile>
@@ -3975,6 +3978,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Source\Square.h">
+      <Filter>Test Plugin\Source</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\PluginProcessor.h">
       <Filter>Test Plugin\Source</Filter>
     </ClInclude>
